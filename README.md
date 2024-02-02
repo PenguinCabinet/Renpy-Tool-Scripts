@@ -1,6 +1,9 @@
 # Renpy Tool Scripts
 Renpy用のツールキットです。
 
+# ダウンロード
+(Download)[https://github.com/PenguinCabinet/Renpy-Tool-Scripts/archive/refs/heads/main.zip]
+
 # 使い方
 
 ## 想定してるワークフロー
